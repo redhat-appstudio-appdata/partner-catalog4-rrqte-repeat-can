@@ -4,7 +4,6 @@ metadata:
   creationTimestamp: null
   name: partner-catalog4
 spec:
-  replicas: 1
   selector: {}
   strategy: {}
   template:
